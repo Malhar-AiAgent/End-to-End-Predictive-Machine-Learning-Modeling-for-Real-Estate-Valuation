@@ -91,7 +91,7 @@ The project demonstrates how machine learning techniques can be applied to real 
 
 1. Clone the repository
 
-git clone https://github.com/your-username/house-price-prediction.git
+git clone https://github.com/Malhar-AiAgent/End-to-End-Predictive-Machine-Learning-Modeling-for-Real-Estate-Valuation
 
 2. Navigate to the project folder
 
